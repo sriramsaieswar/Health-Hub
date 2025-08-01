@@ -111,7 +111,7 @@ Please open an issue in the [GitHub Issues section] https://github.com/sriramsai
 
 ## 👨‍💻 Author
 
-* **Name**: T Syam Kumar
+* **Name**: M.Eswar
 * **GitHub**: [@M.SRI RAM SAI ESWAR]( https://github.com/sriramsaieswar)
 * 💌 *Feel free to connect and contribute!*
 
